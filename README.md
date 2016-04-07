@@ -1,2 +1,3 @@
 # hello-world
-My Program
+
+This is my program and its all new to me
